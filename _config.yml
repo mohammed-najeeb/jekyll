@@ -25,6 +25,7 @@ github_username:  jekyll
 port: 3000
 url: http://10.1.12.91
 host: 10.1.12.91
+theme: jekyll-theme-modernist
 # Build settings
 markdown: kramdown
 theme: minima
