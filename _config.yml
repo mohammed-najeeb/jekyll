@@ -44,7 +44,7 @@ baseurl: "/jekyll" # the subpath of your site, e.g. /blogurl: "" # the base host
 twitter_username: jekyllrb
 github_username:  jekyll
 port: 3000
-url: http://10.1.12.91
+url: https://mohammed-najeeb.github.io
 host: 10.1.12.91
 # Social settings
 facebook_url:
